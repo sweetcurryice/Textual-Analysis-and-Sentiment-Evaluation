@@ -7,38 +7,38 @@ Introducing the project 'Textual Analysis and Sentiment Evaluation of Multiple A
 
 
 
-📦Data Science Project
-┣ 📦Data Preprocessing
-┃ ┣ 📂Input Data
-┃ ┃ ┣ 📂StopWords <span style="color: purple;">--------------------------------------------## The Stop words File ##</span>
-┃ ┃ ┃ ┣ 📂concatination
-┃ ┃ ┃ ┃ ┗ 📜final_stop_words.txt
-┃ ┃ ┃ ┣ 📜StopWords_Auditor.txt
-┃ ┃ ┃ ┣ 📜StopWords_Currencies.txt
-┃ ┃ ┃ ┣ 📜StopWords_DatesandNumbers.txt
-┃ ┃ ┃ ┣ 📜StopWords_Generic.txt
-┃ ┃ ┃ ┣ 📜StopWords_GenericLong.txt
-┃ ┃ ┃ ┣ 📜StopWords_Geographic.txt
-┃ ┃ ┃ ┗ 📜StopWords_Names.txt
-┃ ┃ ┗ 📜Input.xlsx <span style="color: purple;">----------------------------------------------## The Input File ##</span>
-┃ ┗ 📂Output Data
-┃ ┃ ┣ 📂Extracted articles <span style="color: purple;">-----------------------------------## Extracted Articles ##</span>
-┃ ┃ ┣ 📂Cleaned articles
-┃ ┃ ┗ 📂Tokenized articles
-┣ 📦Positive Negative Words
-┃  ┣ 📂StopWords Removed
-┃  ┃ ┣ 📜negative-words.txt
-┃  ┃ ┗ 📜positive-words.txt
-┃  ┣ 📜negative-words.txt
-┃  ┗ 📜positive-words.txt
-┣ 📦Web_Crawler
-┃  ┣ 📂Web_Crawler
-┃  ┣ 📜crawler_main.py <span style="color: purple;">-----------------------------------------## The Web Crawler File ##</span>
-┣ 📜data_analysis.py
-┣ 📜requirements.txt
-┣ 📜output.xlsx <span style="color: purple;">-----------------------------------------------------## The Output File ##</span>
-┣ 📜Objective_.md <span style="color: purple;">-----------------------------------------------------## The Objective File ##</span>
-┗ 📜READ_ME.md
+📦Data Science Project \
+┣ 📦Data Preprocessing \
+┃ ┣ 📂Input Data \
+┃ ┃ ┣ 📂StopWords <span style="color: purple;">--------------------------------## The Stop words File ##</span>\
+┃ ┃ ┃ ┣ 📂concatination\
+┃ ┃ ┃ ┃ ┗ 📜final_stop_words.txt\
+┃ ┃ ┃ ┣ 📜StopWords_Auditor.txt\
+┃ ┃ ┃ ┣ 📜StopWords_Currencies.txt\
+┃ ┃ ┃ ┣ 📜StopWords_DatesandNumbers.txt\
+┃ ┃ ┃ ┣ 📜StopWords_Generic.txt\
+┃ ┃ ┃ ┣ 📜StopWords_GenericLong.txt\
+┃ ┃ ┃ ┣ 📜StopWords_Geographic.txt\
+┃ ┃ ┃ ┗ 📜StopWords_Names.txt\
+┃ ┃ ┗ 📜Input.xlsx <span style="color: purple;">-----------------------------------## The Input File ##</span>\
+┃ ┗ 📂Output Data\
+┃ ┃ ┣ 📂Extracted articles <span style="color: purple;">-------------------------## Extracted Articles ##</span>\
+┃ ┃ ┣ 📂Cleaned articles\
+┃ ┃ ┗ 📂Tokenized articles\
+┣ 📦Positive Negative Words\
+┃  ┣ 📂StopWords Removed\
+┃  ┃ ┣ 📜negative-words.txt\
+┃  ┃ ┗ 📜positive-words.txt\
+┃  ┣ 📜negative-words.txt\
+┃  ┗ 📜positive-words.txt\
+┣ 📦Web_Crawler\
+┃  ┣ 📂Web_Crawler\
+┃  ┣ 📜crawler_main.py <span style="color: purple;">-------------------------------## The Web Crawler File ##</span>\
+┣ 📜data_analysis.py\
+┣ 📜requirements.txt\
+┣ 📜output.xlsx <span style="color: purple;">------------------------------------------## The Output File ##</span>\
+┣ 📜Objective_.md <span style="color: purple;">-------------------------------------## The Objective File ##</span>\
+┗ 📜READ_ME.md\
  
  
 
