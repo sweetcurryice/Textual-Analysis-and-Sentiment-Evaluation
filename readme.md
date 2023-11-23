@@ -49,7 +49,7 @@ Introducing the project 'Textual Analysis and Sentiment Evaluation of Multiple A
 
 - **data_analysis.py**: This Python script is used for text analysis on the extracted articles and computes various variables as described in the project requirements.
 
-- **Text Analysis.docx**: This document provides definitions and details about the variables to be computed during text analysis.
+- **Objective.md**: This document provides definitions and details about the variables to be computed during text analysis.
 
 ---------------
 
