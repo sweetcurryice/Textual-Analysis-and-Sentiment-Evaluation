@@ -17,7 +17,7 @@
    8. [Average Word Length](#38-average-word-length)
 
 ## 1. Objective
-The objective of this assignment is to extract textual data articles from the given URLs and perform text analysis to compute variables explained below.
+The objective of this project is to extract textual data articles from the given URLs and perform text analysis to compute variables explained below.
 
 -------------------------
 ## 2. Data Extraction
